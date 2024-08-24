@@ -423,27 +423,48 @@
      body, input, textarea, select {
          font-size: 17pt;
     }
+	video {
+		height: 360px;
+		width: 720px;
+	}
 }
  @media screen and (max-width: 1680px) {
      body, input, textarea, select {
          font-size: 15pt;
     }
+	video {
+		height: 360px;
+		width: 720px;
+	}
 }
  @media screen and (max-width: 1280px) {
      body, input, textarea, select {
          font-size: 13pt;
     }
+	video {
+		height: 360px;
+		width: 720px;
+	}
 }
  @media screen and (max-width: 1000px) {
      body, input, textarea, select {
          font-size: 13pt;
     }
+	video {
+		height: 360px;
+		width: 720px;
+	}
 }
  @media screen and (max-width: 736px) {
      body, input, textarea, select {
          font-size: 12pt;
          line-height: 1.5em;
     }
+	video {
+		height: 330px;
+		width: 330px;
+		margin-top: -60px;
+	}
 }
  h1, h2, h3, h4, h5, h6 {
      font-weight: 900;
